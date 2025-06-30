@@ -4,6 +4,9 @@ This is inspired by Python SimpleHTTPServer, but written in Rust. It is a simple
 directory.
 
 
+## How to use
+
+
 
 
 ## Development
