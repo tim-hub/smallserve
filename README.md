@@ -14,7 +14,9 @@ smallserve is a rust implementation of a simple HTTP server that serves files fr
 fast, lightweight, and easy to use.
 
 ## How to use
-`smallserve -d <static files directory>`
+- `cargo install smallserve`
+- `smallserve -d <static files directory>`
+  - If it's not found, make sure $HOME/.cargo/bin is in your system PATH.
 
 ## Development
 
