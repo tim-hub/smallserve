@@ -1,0 +1,14 @@
+[package]
+name = "smallserve"
+version = "0.1.0"
+edition = "2024"
+authors = ["im-hub"]
+description = "A minimal static file server written in Rust."
+repository = "https://github.com/tim-hu/smallserve"
+license = "MIT"
+
+[dependencies]
+clap = { version = "4.5", features = ["derive"] }
+tokio = { version = "1", features = ["full"] }
+axum = "0.7.9"
+tower-http = { version = "0.6.6", features = ["fs"] }
