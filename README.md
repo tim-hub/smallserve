@@ -12,4 +12,4 @@ directory.
 ## Development
 
 - clone this repository
-- `cargo run -- --port 7777 -d ./public`
+- `cargo run -- --port 7777 -d ./`
