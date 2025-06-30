@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2024"
 authors = ["tim-hub"]
 description = "A minimal static file server written in Rust."
-repository = "https://github.com/tim-hu/smallserve"
+repository = "https://github.com/tim-hub/smallserve"
 license = "MIT"
 
 [dependencies]

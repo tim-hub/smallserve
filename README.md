@@ -14,7 +14,7 @@ smallserve is a rust implementation of a simple HTTP server that serves files fr
 fast, lightweight, and easy to use.
 
 ## How to use
-
+`smallserve -d <static files directory>`
 
 ## Development
 
